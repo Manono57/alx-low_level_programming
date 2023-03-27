@@ -10,6 +10,6 @@ int main(void)
 	char *str;
 
 	str = "0123456789";
-	puts-half(str);
+	puts_half(str);
 	return (0);
 }
